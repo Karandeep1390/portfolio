@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8b651bca.chunk.css",
+    "main.js": "/portfolio/static/js/main.56d5bc03.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.56d5bc03.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.cf98fb9e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.cf98fb9e.js.map",
+    "static/css/2.50d7ef31.chunk.css": "/portfolio/static/css/2.50d7ef31.chunk.css",
+    "static/js/2.1fe79b2e.chunk.js": "/portfolio/static/js/2.1fe79b2e.chunk.js",
+    "static/js/2.1fe79b2e.chunk.js.map": "/portfolio/static/js/2.1fe79b2e.chunk.js.map",
+    "static/js/3.90f5f4c6.chunk.js": "/portfolio/static/js/3.90f5f4c6.chunk.js",
+    "static/js/3.90f5f4c6.chunk.js.map": "/portfolio/static/js/3.90f5f4c6.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.50d7ef31.chunk.css.map": "/portfolio/static/css/2.50d7ef31.chunk.css.map",
+    "static/css/main.8b651bca.chunk.css.map": "/portfolio/static/css/main.8b651bca.chunk.css.map",
+    "static/js/2.1fe79b2e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.1fe79b2e.chunk.js.LICENSE.txt",
+    "static/media/Profile.css": "/portfolio/static/media/Kd_profile.8f2507d9.jpeg",
+    "static/media/index.css": "/portfolio/static/media/Poppins-Thin.a61eaf4c.ttf",
+    "static/media/Home.css": "/portfolio/static/media/bg.bac5a643.jpg",
+    "static/media/city.06bcb13a.png": "/portfolio/static/media/city.06bcb13a.png",
+    "static/media/education.svg": "/portfolio/static/media/education.10cfa28a.svg",
+    "static/media/fire.27d6eac9.png": "/portfolio/static/media/fire.27d6eac9.png",
+    "static/media/interests.svg": "/portfolio/static/media/interests.809890a3.svg",
+    "static/media/mailz.d13d5e32.jpeg": "/portfolio/static/media/mailz.d13d5e32.jpeg",
+    "static/media/programming-skills.svg": "/portfolio/static/media/programming-skills.d19983a9.svg",
+    "static/media/projects.svg": "/portfolio/static/media/projects.2b352a52.svg",
+    "static/media/vigilance.545914ce.png": "/portfolio/static/media/vigilance.545914ce.png",
+    "static/media/work-history.svg": "/portfolio/static/media/work-history.a566475d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf98fb9e.js",
+    "static/css/2.50d7ef31.chunk.css",
+    "static/js/2.1fe79b2e.chunk.js",
+    "static/css/main.8b651bca.chunk.css",
+    "static/js/main.56d5bc03.chunk.js"
+  ]
+}
