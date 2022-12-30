@@ -1,0 +1,31 @@
+.project-card {
+  width: 600px;
+  /* height: 450px; */
+  color: #1f2235;
+}
+
+.project-card img {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.project-card .content {
+  text-align: center;
+  padding: 20px;
+}
+
+.project-card .content h1 {
+  font-size: 18px;
+}
+
+.project-card .content p {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.project-card .content .btn {
+  cursor: pointer;
+  background-color: #ff5823;
+  padding: 10px;
+  color: white;
+}
