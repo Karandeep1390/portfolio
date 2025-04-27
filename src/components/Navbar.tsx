@@ -28,7 +28,7 @@ const Navbar = () => {
     try {
       // Create a temporary link element
       const link = document.createElement('a');
-      link.href = '/Karandeep_Singh_Resume.pdf';
+      link.href = import.meta.env.BASE_URL + 'Karandeep_Singh_Resume.pdf';
       link.download = 'Karandeep_Singh_Resume.pdf';
       document.body.appendChild(link);
       link.click();
