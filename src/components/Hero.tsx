@@ -57,7 +57,7 @@ const Hero = () => {
               lineHeight: 1.3,
             }}
           >
-            Software Engineer @ Kotak Mahindra Bank | ex-Amazon
+            SDE 2 @ Kotak Mahindra Bank | ex-Amazon
           </Typography>
           <Box
             component={motion.div}
