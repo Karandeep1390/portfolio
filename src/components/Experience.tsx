@@ -6,7 +6,7 @@ import { FaBriefcase, FaMapMarkerAlt } from 'react-icons/fa';
 const experiences = [
   {
     company: 'Kotak Mahindra Bank',
-    position: 'Software Developer Engineer 1',
+    position: 'Software Developer Engineer II',
     period: 'Jun 2023 - Present',
     location: 'Remote (Gurgaon, India)',
     description: [
